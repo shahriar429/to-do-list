@@ -1,2 +1,2 @@
-#To do list project
-This project is a simple todo list managed using git and github
+# Todo List Project
+This project is a simple todo list managed using Git and GitHub.
