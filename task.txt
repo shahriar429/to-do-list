@@ -1,3 +1,1 @@
-1. Create account in Git and github
-2. Complete first assignment
-3. Learn Git branching
+2. Complete git assignment (updated in feature-b)
