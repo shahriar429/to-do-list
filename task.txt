@@ -1,0 +1,2 @@
+1. Create account in Git and github
+2. Complete first assignment
