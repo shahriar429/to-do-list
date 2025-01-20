@@ -6,3 +6,4 @@
 3. Learn Git branching
 3. Learn Git branching
 3. Learn Git branching
+3. Learn Git branching

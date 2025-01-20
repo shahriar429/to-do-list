@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-1.Completed Git assignment (updated in feature-a)
-=======
-2. Complete Git assignment (updated in feature-b)
->>>>>>> feature-b
+1. Complete task 1
