@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-2. Complete git assignment (updated in feature-a)
-=======
-2. Complete git assignment (updated in feature-b)
->>>>>>> feature-b
-3. Learn Git branching
-3. Learn Git branching
-3. Learn Git branching
-3. Learn Git branching
